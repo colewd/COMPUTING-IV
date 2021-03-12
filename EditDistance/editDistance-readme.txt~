@@ -1,0 +1,26 @@
+Name: Cole DiStasio
+
+Time to Complete: about 6 hours
+
+Instructions to run: ./ED <filename.txt
+
+CPU Speed: 2.60 GHz or 2600 MHz
+
+Tests: File, Time(sec), Memory
+
+ecoli2500, .448102
+
+ecoli5000, 1.3612
+
+ecoli7000, 7.19827
+
+ecoli10000, 18.9914
+
+ecoli20000,
+
+ecoli28284,
+
+Implementation: Used Needleman-Wunsch
+Array Method: used array of arrays
+OS: Using VirtualBox on a windows machine
+CPU type: Intel Core i7-6700HQ 
